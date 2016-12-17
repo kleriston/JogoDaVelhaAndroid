@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="416dp"
+    android:layout_height="wrap_content"
+    android:weightSum="1">
+
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="211dp"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+
+        <TextView
+            android:layout_width="155dp"
+            android:layout_height="wrap_content"
+            android:text="Placar"
+            android:id="@+id/textView3"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="0.04"
+            android:textSize="30dp" />
+
+        <TextView
+            android:layout_width="198dp"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:id="@+id/jog1"
+            android:layout_weight="0.04"
+            android:textSize="20dp" />
+
+        <TextView
+            android:layout_width="198dp"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:id="@+id/jog2"
+            android:textSize="20dp" />
+
+        <TextView
+            android:layout_width="198dp"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:id="@+id/empate"
+            android:textSize="20dp" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="169dp"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="416dp"
+            android:layout_height="wrap_content"
+            android:text="Jogar Novamente"
+            android:id="@+id/button1" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sair"
+            android:id="@+id/button_sair"
+            android:layout_gravity="bottom" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Resetar Pontuação"
+            android:id="@+id/reset"
+            android:layout_gravity="center_horizontal" />
+    </LinearLayout>
+
+
+</LinearLayout>

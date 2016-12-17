@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Marcia\AndroidStudioProjects\JogoDaVelha2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Marcia\AndroidStudioProjects\JogoDaVelha2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_27ba6aeb38233104687b31f98ff6fd5212693ed7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marcia\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\18.0\cce0823396aa693798f8882e64213b1772032b09\guava-18.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="C:\Users\Marcia\AndroidStudioProjects\JogoDaVelha2\app\build\intermediates\pre-dexed\debug\guava-18.0_c2836d66a7be522c3c7355855692b090999ed10d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marcia\AndroidStudioProjects\JogoDaVelha2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Marcia\AndroidStudioProjects\JogoDaVelha2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_c78b8e8a3c04bf1c7cf31970e3aae6f7c1a734ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marcia\AndroidStudioProjects\JogoDaVelha2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Marcia\AndroidStudioProjects\JogoDaVelha2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_cdd371597996aedb5fb07a362c0a4769abb9f6a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marcia\AndroidStudioProjects\JogoDaVelha2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Marcia\AndroidStudioProjects\JogoDaVelha2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_925d46a9903557862d2ed858befd1617f2a77715.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marcia\AndroidStudioProjects\JogoDaVelha2\app\build\intermediates\exploded-aar\com.github.satyan\sugar\1.4\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ac045b53684345f4ec8468477e8fc5034d0d2bfd">
+        <dex dex="C:\Users\Marcia\AndroidStudioProjects\JogoDaVelha2\app\build\intermediates\pre-dexed\debug\com.github.satyan-sugar-1.4_e6ddadc876b0d46e969f05c09d3115293501ec2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marcia\AndroidStudioProjects\JogoDaVelha2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Marcia\AndroidStudioProjects\JogoDaVelha2\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_c443bdae00405ba5e36bf249d576ded59c9275c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marcia\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Marcia\AndroidStudioProjects\JogoDaVelha2\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_9b3ada3a10b0a244a0fcd9c79c1adad95044c570.jar" />
+    </item>
+
+</items>
